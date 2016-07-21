@@ -1,5 +1,4 @@
 language: java
-language: php
 addons:
   sonarqube: true
   
